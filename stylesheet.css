@@ -1,0 +1,38 @@
+body {
+
+    background-image: url("homepage_dark.jpg");
+    background-size:100%;
+
+}
+
+.logo {
+    font: sans-serif;
+    color: #ffffff;
+    font-size: 2em;
+    
+    padding: 2% 0  0;
+}
+
+.menu {
+    padding: 5% 5% 2% 5%;
+}
+
+.menu-item a {
+    font: sans-serif;
+    color: #ffffff;
+    text-decoration: none !important;
+    padding: 2%;
+}
+
+.menu-item a:hover {
+    color: #a8f660;
+}
+
+.log-in {
+    padding: 0 5% 2% 5%;
+}
+
+p {
+    color: #ffffff;
+    font: sans-serif;
+}

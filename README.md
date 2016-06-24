@@ -1,4 +1,1 @@
-# Wage-Theft-App
-Wage Theft App
-
-Group Project
+# Group-3-infoproject
